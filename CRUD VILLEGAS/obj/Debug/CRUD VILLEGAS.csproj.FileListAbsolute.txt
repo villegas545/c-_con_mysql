@@ -1,0 +1,26 @@
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD_VILLEGAS.Form1.resources
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD_VILLEGAS.Properties.Resources.resources
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.csproj.GenerateResource.cache
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\CRUD VILLEGAS.exe.config
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\CRUD VILLEGAS.exe
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\CRUD VILLEGAS.pdb
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\MySql.Data.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\Google.Protobuf.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\ZstdNet.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\System.Memory.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\System.Buffers.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\bin\Debug\MySql.Data.xml
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.exe.config
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.csproj.CopyComplete
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.exe
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD VILLEGAS.pdb
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD_VILLEGAS.Agregar.resources
+C:\Users\Villegas\source\repos\CRUD VILLEGAS\CRUD VILLEGAS\obj\Debug\CRUD_VILLEGAS.modificar.resources
